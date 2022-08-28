@@ -11,13 +11,19 @@ public class Main {
 
 
 //    developing the feature SUN
-        SUN omaro=new SUN();
-        omaro.temperature="12334433kj";
-        omaro.name="ferro";
-        omaro.radius=1234455;
-        omaro.color="pink";
-    }
+        SUN omaro = new SUN();
+        omaro.temperature = "12334433kj";
+        omaro.name = "ferro";
+        omaro.radius = 1234455;
+        omaro.color = "pink";
 
+//    planet2
+        Planet2 superwomen = new Planet2();
+        superwomen.size = "766585857km";
+        superwomen.name = "pliea";
+        superwomen.color = "green";
     }
 
 }
+
+
